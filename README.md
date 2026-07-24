@@ -107,8 +107,8 @@ main.py                         CLI entry point
 │
 ├── Phase 1 — Slug Discovery
 │   ├── crawler/slug_manager.py         Orchestrates Phase 1
-│   ├── crawler/college_slug_scraper.py 1,566 colleges / 66 pages
-│   ├── crawler/school_slug_scraper.py  38,867 schools / 1,620 pages
+│   ├── crawler/college_slug_scraper.py 1,464 colleges / 66 pages
+│   ├── crawler/school_slug_scraper.py  33,529 schools / 1,620 pages
 │   └── crawler/pagination.py           Generic paginated API iterator
 │
 ├── Phase 2 — Detail Scraping
