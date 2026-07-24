@@ -16,7 +16,7 @@ Extracts 7 fields for every institution across two categories:
 | `type` | Ownership type (Private, Public, Community…) |
 | `established` | Year of establishment |
 
-**Scale:** ~40,433 institutions — 1,566 colleges + 38,867 schools
+**Scale:** ~34,993 institutions — 1,464 colleges + 33,529 schools
 
 **Method:** Pure REST API (`api.edusanjal.com.np/v1`) — no HTML parsing, no Selenium required in production.
 
