@@ -1,0 +1,30 @@
+{
+  "run_id": "2026-07-24T13-55-58",
+  "total_elapsed": "0.1s",
+  "database": "D:\\data scrapper\\output\\edusanjal.db",
+  "slugs": {
+    "total": 29335,
+    "pending": 0,
+    "completed": 29326,
+    "failed": 9
+  },
+  "details": {
+    "total": 34993,
+    "colleges": 1464,
+    "schools": 33529
+  },
+  "phase1": {
+    "run_id": "2026-07-24T13-55-58",
+    "phase": "slug_discovery",
+    "total_slugs": 29335,
+    "completed": 29326,
+    "failed": 9,
+    "pending": 0,
+    "retried": 0,
+    "success_rate": "100.0%",
+    "elapsed": "0.0s",
+    "avg_speed_rps": "3644430.093 req/s",
+    "started_at": "2026-07-24T13:55:58.769586+00:00",
+    "finished_at": "2026-07-24T13:55:58.777632+00:00"
+  }
+}
